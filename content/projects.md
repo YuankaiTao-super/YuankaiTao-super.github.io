@@ -11,7 +11,7 @@ permalink: /projects/
 - Rewrote the core yield-to-worst numerical solver using Numba JIT, reducing the computation time for a single bond from 1.57 ms to 7.5 μs, achieving a 210x speedup.
 
 ## Jane Street Market Prediction Competition (Kaggle) — Silver Medal
-[Repo](https://github.com/YuankaiTao-super/Kaggle2024-Jane-Street-Real-Time-Market-Data-Forecasting) · 排名：94/3757 (Top 2.7%)  
+[Repo](https://github.com/YuankaiTao-super/Kaggle2024-Jane-Street-Real-Time-Market-Data-Forecasting) · Ranking: 94/3757 (Top 2.7%)  
 - Conducted EDA (e.g., correlation analysis, visualization) on dataset to better understand hidden patterns.
 - Implemented feature expansion on anonymized market data to obtain more information for training.
 - Trained multiple models and ensembled (NN, Ridge Regression, XGBoost, TabNet), achieving private=0.76 / public=0.78 while mitigating overfitting.
