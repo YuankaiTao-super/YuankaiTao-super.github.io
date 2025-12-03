@@ -29,7 +29,7 @@ a:hover {
 </style>
 
 <div class="profile-section">
-  <img src="/assets/profile.jpg" alt="Yuankai Tao" class="profile-avatar">
+  <img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Yuankai Tao" class="profile-avatar">
   <h1>Yuankai Tao (陶元凯)</h1>
   <p><strong>M.S. in Quantitative Finance</strong> | UC San Diego</p>
   <p>
@@ -47,7 +47,7 @@ I am a graduate student at UC San Diego specializing in Quantitative Finance. My
 
 I have hands-on experience in performance optimization, CI/CD pipelines, and cloud data processing. I also participated in Kaggle competitions and achieved a Silver Medal in the Jane Street Market Prediction challenge.
 
-**[View Full Resume](/resume/)** | **[Download CV (PDF)](/assets/CV_Yuankai_Tao.pdf)**
+**[View Full Resume]({{ '/resume/' | relative_url }})** | **[Download CV (PDF)]({{ '/assets/CV_Yuankai_Tao.pdf' | relative_url }})**
 
 ---
 

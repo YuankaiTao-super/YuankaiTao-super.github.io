@@ -9,4 +9,4 @@ permalink: /contact/
 - **LinkedIn:** https://www.linkedin.com/in/yuankai-tao-211788328/  
 - **Homepage:** https://yuankaitao-super.github.io/  
 
-[Download CV (PDF)](/assets/CV_Yuankai_Tao.pdf)
+[Download CV (PDF)]({{ '/assets/CV_Yuankai_Tao.pdf' | relative_url }})
