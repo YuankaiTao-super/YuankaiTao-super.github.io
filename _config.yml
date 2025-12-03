@@ -1,1 +1,27 @@
+title: "Yuankai Tao"
+email: yut033@ucsd.edu
+description: "Quantitative finance · Machine learning · Data science"
+baseurl: ""
+url: "https://yuankaitao-super.github.io"
+
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "About"
+    url: "/about/"
+  - title: "Resume"
+    url: "/resume/"
+  - title: "Skills"
+    url: "/skills/"
+  - title: "Contact"
+    url: "/contact/"
+
+author:
+  name: "Yuankai Tao"
+  github: "YuankaiTao-super"
+  linkedin: "https://www.linkedin.com/in/yuankai-tao-211788328/"
+  homepage: "https://yuankaitao-super.github.io/"
+
 theme: jekyll-theme-minimal
