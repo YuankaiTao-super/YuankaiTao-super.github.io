@@ -1,0 +1,23 @@
+type = "card"
+title = "Interests"
+description = "Areas I explore and enjoy"
+
+[[items]]
+title = "Quantitative Finance"
+content = "Systematic investing, factor research, volatility modeling."
+tags = ["Quant", "Factors", "Vol"]
+
+[[items]]
+title = "Machine Learning"
+content = "NLP, time-series forecasting, representation learning."
+tags = ["ML", "NLP", "TS"]
+
+[[items]]
+title = "Optimization & Operations"
+content = "Stochastic optimization, scheduling, resource allocation."
+tags = ["Optimization", "OR"]
+
+[[items]]
+title = "GPU Programming & Acceleration"
+content = "Interested in CUDA/GPU programming and compute acceleration; learning and updating continuously."
+tags = ["GPU", "CUDA", "Acceleration"]

@@ -1,0 +1,68 @@
+[site]
+title = "Yuankai Tao"
+description = "MS student at the University of California, San Diego (UCSD)."
+favicon = "/acorn.svg"
+last_updated = "November 18, 2025"
+
+[author]
+name = "Yuankai Tao"
+title = "MS Student"
+institution = "University of California, San Diego"
+avatar = "/yuankai.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "yuankaitao0909@gmail.com"
+location = "Wuhan, China / San Diego, U.S."
+location_url = "https://maps.app.goo.gl/JFqvWaNDV4eWgySGA"
+location_details = [
+  "Jiangxia District",
+  "Wuhan, China"
+]
+google_scholar = "https://scholar.google.com"
+github = "https://github.com/YuankaiTao-super"
+linkedin = "https://www.linkedin.com/in/yuankai-tao-211788328/"
+
+[features]
+# Show a like button on the about page
+enable_likes = true
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[[navigation]]
+title = "About Me"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Educations"
+type = "page"
+target = "educations"
+href = "/educations"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "Research Experience"
+type = "page"
+target = "research"
+href = "/research"
+
+[[navigation]]
+title = "Interests"
+type = "page"
+target = "interests"
+href = "/interests"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

@@ -1,0 +1,48 @@
+type = "timeline"
+title = "Experience"
+description = "Research experience"
+
+[[items]]
+title = "Research Assistant"
+organization = "UNC-Chapel Hill"
+location = "Chapel Hill, NC"
+date = "Mar 2025 – Present"
+summary = "Large-scale housing bargaining study (The Numbers Game) on listing and counteroffer pricing formats."
+bullets = [
+  "Built a 76M-observation spatial pipeline on GCP (Python, PostgreSQL, PostGIS, BigQuery, GCE).",
+  "Computed spatial variables at multiple radii with parallel workflows (≈50x speedup).",
+  "Managed 100GB+ SQL/DuckDB data on UNC Longleaf; derived low-skilled renter populations (987.5M obs).",
+  "Reproduced varaiables construction and duplicate checks."
+]
+supervisors = ["Professor Franklin Qian"]
+tags = ["Housing", "Spatial data", "Causal inference", "BigQuery", "DuckDB"]
+logo = "/logos/unc.png"
+
+[[items]]
+title = "Independent Research"
+organization = "UC, San Diego"
+location = "San Diego, CA"
+date = "Jan 2025 – Present"
+summary = "News media sentiment and its impact on financial markets."
+bullets = [
+  "Fine-tuned BERT industry classifier to 93.5% accuracy on multi-frequency news sentiment data.",
+  "Found negative sentiment strongly lowers returns; high-tech reacts faster than traditional manufacturing."
+]
+supervisors = ["Professor Yonghao Xu"]
+tags = ["NLP", "Finance", "Sentiment", "BERT"]
+logo = "/logos/ucsd.png"
+
+[[items]]
+title = "National Innovation & Entrepreneurship Program"
+organization = "Zhongnan University of Economics and Law"
+location = "Wuhan, China"
+date = "Jan 2022 – May 2024"
+summary = "Multi-objective optimization of cost and emissions in thermal power plants."
+bullets = [
+  "Conducted field research with energy SOEs; 254 questionnaires and plant interviews.",
+  "Integrated CERs into LCOE for carbon trading; quantified lifecycle low-carbon upgrades.",
+  "Optimized carbon-adjusted LCOE under ramp constraints; reduced cost by 0.102 RMB/kWh (≈22%)."
+]
+supervisors = ["Professor Susie Wen"]
+tags = ["Energy", "Optimization", "Carbon trading", "Operations"]
+logo = "/logos/zuel.png"

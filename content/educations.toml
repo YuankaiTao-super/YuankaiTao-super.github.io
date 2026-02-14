@@ -1,0 +1,17 @@
+type = "card"
+title = "Educations"
+description = "Education background"
+
+[[items]]
+title = "University of California, San Diego"
+subtitle = "M.S. in Quantitative Finance"
+date = "Sep 2024 to Dec 2025"
+content = "GPA 3.84/4.0\nKey courses: Deep Learning; Data Science for Finance; Computational Finance; Financial Econometrics\nTopics: Transformers, LSTM, CNNs, PyTorch/SGD; convex optimization, SDE, numerical PDEs, dynamic programming, Monte Carlo; time-series VAR, GARCH/IGARCH, GMM, MLE\nHonors: Beta Gamma Sigma"
+tags = ["UCSD", "MS", "Quant Finance" , "Data Science"]
+
+[[items]]
+title = "Zhongnan University of Economics and Law"
+subtitle = "B.S. in Management"
+date = "Sep 2020 to Jun 2024"
+content = "GPA 3.53/4.0\nKey courses: Statistics; Linear Algebra; Quantitative Investment (Experiment)\nHonors: Special Scholarship in Innovation and Entrepreneurship; Second-class Scholarship"
+tags = ["ZUEL", "BS", "Management" , "Economics" , "Finance"]
